@@ -1,0 +1,24 @@
+#main{
+    text-align:center;
+    background-color:#eee;
+  }
+  h1 #title{
+    height:200px;
+    width:100%;
+    background-color:blue;
+  }
+  img{
+    display:block;
+  }
+  #image{
+    max-width:100%;
+    height:auto;
+    margin:auto;
+  }
+  #img-div{
+    margin:20px;
+    background-color:white;
+  }
+   #divul>.sp-con{
+    color:black;
+  }
